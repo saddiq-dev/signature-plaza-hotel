@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=DatabaseAccess
+comment1.params=
+comment1.target=DatabaseAccess()
+comment1.text=\r\n\ This\ constructor\ connects\ to\ a\ MySQL\ database.\ It\ creates\ instances\r\n\ of\ the\ Statments\ and\ ResultSet\ classes\ to\ be\ used\ by\ other\ classes.\r\n
+comment2.params=
+comment2.target=void\ createConnection()
+comment2.text=\r\nConnection\ information\ for\ the\ MYSQL\ database\ on\ server\r\n@exception\ Exception\:if\ no\ connection\ was\ found.\r\n
+numComments=3
